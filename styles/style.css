@@ -1,0 +1,143 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.top-section {
+  display: flex;
+  background-color: #04233f;
+  justify-content: center;
+  min-height: 200px;
+}
+
+.top-section .top-secton-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 300px;
+  flex-direction: column;
+  color: #ffffff;
+}
+
+.top-section .top-secton-img h1 {
+  font-weight: 500;
+}
+
+.navbar {
+  background-color: #06345d;
+  min-height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar .navbar-links {
+  display: flex;
+  gap: 50px;
+}
+
+.navbar .navbar-links a {
+  text-decoration: none;
+  font-size: 1.5em;
+  color: #ffffff;
+}
+
+.navbar .navbar-links a:hover {
+  color: lightblue;
+}
+
+.sections {
+  background-color: #04233f;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sections .section-element {
+  width: 500px;
+  height: 400px;
+  background-color: #06345d;
+  border-radius: 15px;
+  margin: 20px;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  text-align: center;
+}
+
+.sections .section-element p {
+  padding: 10px;
+}
+
+.sections .section-element span {
+  font-weight: 800;
+}
+
+.contacts-section, .services-section {
+  background-color: #04233f;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.services-section{
+    gap: 20px;
+}
+
+.contacts-section .contact-section-element{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #ffffff;
+  padding: 20px;
+  height: 200px;
+  width: 500px;
+  margin: 20px 0px 20px 0px;
+}
+
+.contacts-section .contact-section-element .element-text-1 {
+  font-size: 1.8em;
+  color: #00a2ff;
+  font-weight: 700;
+}
+
+.contacts-section .contact-section-element .element-text-1 {
+  font-weight: 400;
+}
+
+.contacts-section .contact-section-title h2,.services-section .service-section-title h2 {
+  color: #ffffff;
+  font-size: 2em;
+  margin-top: 20px;
+}
+
+.services-section .service-section-element .service-section-subtitle{
+    color: #00a2ff;
+    font-weight: 400;
+    font-size: 1.5em;
+}
+.services-section .service-section-element{
+    color: #ffffff;
+    padding: 20px;
+    min-width: 600px;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+  min-height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #06345d;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 1.2em;
+}

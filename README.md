@@ -1,7 +1,6 @@
 # Projeto Front-end
 
-- Essa pasta contém um dos meus projetos Front-end.
-- Sempre que aprendo coisas novas atualizo os projetos.
+- Essa pasta contém o exercício final do módulo de HTML5 CSS3 - Básico do curso Desenvolvimento Web Compacto e Completo do professor João RIbeiro.
   
 ## Tecnologias utilizadas até o momento:
 * HTML5
@@ -11,8 +10,6 @@
 ### Meu Contato:
 [Linkedin](https://www.linkedin.com/in/igor-torquato-0b2b12149/)
 
-## Página de Times
+## Página de Empresa simples
 
-Nesse Projeto foquei em apresentar uma página simples mas com alguns recursos importantes como os **cards** e a **navbar**.
-
-Também usei vários recursos CSS para trabalhar com cores e as relações entre elas e explorei a propriedade **hover**.
+Nesse Projeto foquei em apresentar páginas simples mas com alguns recursos importantes para comprovar os conhecimentos adquiridos no módulo básico de HTML5 e CSS3.
